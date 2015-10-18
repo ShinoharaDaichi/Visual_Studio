@@ -1,0 +1,20 @@
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\be_isib_kuka.Form1.resources
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.Properties.Resources.resources
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.csproj.GenerateResource.Cache
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\RandyKuka\RandyKuka\bin\Debug\RandyKuka.exe
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\RandyKuka\RandyKuka\bin\Debug\RandyKuka.pdb
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.exe
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.pdb
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.csprojResolveAssemblyReference.cache
+G:\Hubic\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.exe
+G:\Hubic\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.pdb
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.exe
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.pdb
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\RandyKuka\RandyKuka\bin\Debug\RandyKuka.exe
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\RandyKuka\RandyKuka\bin\Debug\RandyKuka.pdb
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.csprojResolveAssemblyReference.cache
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\be_isib_kuka.Form1.resources
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.Properties.Resources.resources
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.csproj.GenerateResource.Cache
+G:\Hubic\INFO\C#\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.exe
+G:\Hubic\INFO\C#\Projets Visual Studio\RandyKuka\RandyKuka\obj\x86\Debug\RandyKuka.pdb

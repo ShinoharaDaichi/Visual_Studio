@@ -1,0 +1,22 @@
+<Sen Type="ImFree">   
+   <EStr>Programme de dessin avec KUKA</EStr>
+   <RKorr X="0.0000" Y="0.0000" Z="0.0000" A="0.0000" B="0.0000" C="0.0000" />
+   <Point1X>0.0</Point1X>
+   <Point1Y>0.0</Point1Y>
+   <Point1Z>40.0</Point1Z>
+   <Point1A>0.0</Point1A>
+   <Point1B>0.0</Point1B>
+   <Point1C>180.0</Point1C>
+   <Point2X>0</Point2X>
+   <Point2Y>0.0</Point2Y>
+   <Point2Z>40.0</Point2Z>
+   <Point2A>0.0</Point2A>
+   <Point2B>0.0</Point2B>
+   <Point2C>180.0</Point2C>
+   <GRIP_CLOSE>0</GRIP_CLOSE>
+   <GRIP_OPEN>0</GRIP_OPEN>
+   <motionType>1</motionType>
+   <CONTROL_LOOP>0</CONTROL_LOOP>
+   <C_DIS>0.1</C_DIS>
+   <IPOC></IPOC>
+</Sen>

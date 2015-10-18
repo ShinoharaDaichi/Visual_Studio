@@ -1,0 +1,39 @@
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\bin\Debug\KukaSimulation.exe
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\bin\Debug\KukaSimulation.pdb
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\be_isib_kuka.Form1.resources
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.Properties.Resources.resources
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.csproj.GenerateResource.Cache
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.exe
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.pdb
+G:\Hubic\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.exe
+G:\Hubic\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.pdb
+G:\Hubic\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\bin\Debug\KukaSimulation.exe
+G:\Hubic\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\bin\Debug\KukaSimulation.pdb
+G:\Hubic\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\be_isib_kuka.Form1.resources
+G:\Hubic\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.Properties.Resources.resources
+G:\Hubic\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.csproj.GenerateResource.Cache
+C:\Users\Daichi\hubiC\ISIB\3BA\Complément programmation (C#)\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.exe
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.pdb
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\bin\Debug\KukaSimulation.exe
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\bin\Debug\KukaSimulation.pdb
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\be_isib_kuka.Form1.resources
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.Properties.Resources.resources
+C:\Users\Daichi\hubiC\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.csproj.GenerateResource.Cache
+G:\Hubic\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.exe
+G:\Hubic\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.pdb
+G:\Hubic\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\bin\Debug\KukaSimulation.exe
+G:\Hubic\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\bin\Debug\KukaSimulation.pdb
+G:\Hubic\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.csprojResolveAssemblyReference.cache
+G:\Hubic\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\be_isib_kuka.Form1.resources
+G:\Hubic\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.Properties.Resources.resources
+G:\Hubic\INFO\C#\Projets Visual Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.csproj.GenerateResource.Cache
+C:\Users\Daichi\hubiC\GIT\Visual_Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.exe
+C:\Users\Daichi\hubiC\GIT\Visual_Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.pdb
+C:\Users\Daichi\hubiC\GIT\Visual_Studio\KukaSimulation\KukaSimulation\bin\Debug\KukaSimulation.exe
+C:\Users\Daichi\hubiC\GIT\Visual_Studio\KukaSimulation\KukaSimulation\bin\Debug\KukaSimulation.pdb
+C:\Users\Daichi\hubiC\GIT\Visual_Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Daichi\hubiC\GIT\Visual_Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\be_isib_kuka.Form1.resources
+C:\Users\Daichi\hubiC\GIT\Visual_Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.Properties.Resources.resources
+C:\Users\Daichi\hubiC\GIT\Visual_Studio\KukaSimulation\KukaSimulation\obj\x86\Debug\KukaSimulation.csproj.GenerateResource.Cache
